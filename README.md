@@ -1,3 +1,10 @@
+# Capture of the app
+
+
+![image](https://github.com/alnazareth/Prueba-Tecnica_Front-end/assets/36893691/9e434713-4cac-4fa9-906c-280f99ee7eec)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
